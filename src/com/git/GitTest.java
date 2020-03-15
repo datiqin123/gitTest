@@ -10,6 +10,5 @@ public class GitTest {
         System.out.println(args);
         System.out.println(args);
         System.out.println(args);
-        System.out.println(args);
     }
 }
